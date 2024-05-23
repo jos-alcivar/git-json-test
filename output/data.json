@@ -1,0 +1,16 @@
+{
+   "name": "Jose Doe",
+   "age": 33,
+   "is_student": false,
+   "courses": [
+      "Web Design",
+      "GLSL",
+      "Dart"
+   ],
+   "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "BC",
+      "zip_code": "12345"
+   }
+}
